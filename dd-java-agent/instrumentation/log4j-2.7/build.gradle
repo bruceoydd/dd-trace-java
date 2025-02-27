@@ -10,5 +10,5 @@ muzzle {
 }
 
 dependencies {
-  compileOnly group: 'org.apache.logging.log4j', name: 'log4j-core', version: '2.7'
+  compileOnly group: 'org.apache.logging.log4j', name: 'log4j-core', version: '2.24.3'
 }
